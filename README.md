@@ -49,14 +49,14 @@ Tahapan yang dilakukan dalam proyek ini:
 ### Distribusi Sentimen Komentar
 Grafik pie di bawah ini menunjukkan **persentase sentimen komentar** dari keseluruhan data.
 
-![Pie Chart Sentimen](images/pie_sentiment.png)
+![Pie Chart Sentimen](images/Figure_1.png)
 
 ---
 
 ### Jumlah Komentar per Sentimen
 Grafik batang berikut menampilkan **jumlah komentar** untuk setiap kategori sentimen.
 
-![Bar Chart Sentimen](images/bar_sentiment.png)
+![Bar Chart Sentimen](images/2.png)
 
 ---
 
